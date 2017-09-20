@@ -1,15 +1,17 @@
-Comments
+# hid205
 
-Mind the quotes and do not forget them
-Remove all sections that you have not yet created a directory in github with so our automated scripts do not fail. Only add them if the
-Owner
+# Owner
 
+```
 owner:
     hid: 205
     name: Chaudhary Mrunal Lalitmohan
     url: https://github.com/bigdata-i523/sample-hid000
-Paper 1
+    ```
+    
+# Paper 1
 
+```
 paper1:
    author: 
    - Chaudhary Mrunal Lalitmohan
@@ -20,8 +22,11 @@ paper1:
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
    status: in progress
-Paper 2
+```
 
+# Paper 2
+
+```
 paper2:
    author: 
    - Chaudhary Mrunal Lalitmohan
@@ -32,11 +37,14 @@ paper2:
    url: https://github.com/bigdata-i523/sample-hid000/paper2/paper2.pdf   
    type: word
    status: not yet started
-Project
+```
+
+# Project
 
 We will assign new pids for you when we approve the project and reports
 Just use one type and delete the line with
 
+```
 paper2:
    type: project
    type: report
@@ -49,3 +57,4 @@ paper2:
    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
    type: latex
    status: in progress
+```
