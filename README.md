@@ -6,7 +6,7 @@
 owner:
     hid: 205
     name: Chaudhary Mrunal Lalitmohan
-    url: https://github.com/bigdata-i523/sample-hid000
+    url: https://github.com/bigdata-i523/hid205
     ```
     
 # Paper 1
