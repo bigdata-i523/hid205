@@ -24,6 +24,7 @@ paper1:
    url: https://github.com/bigdata-i523/hid205/paper1/report.pdf
    type: latex
    status: in progress
+   chapter: Security
 ```
    
 # Paper 2
