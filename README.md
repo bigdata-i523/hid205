@@ -20,7 +20,7 @@ paper1:
    title: Applications of Big Data in Fraud Detection in Insurance
    abstract: >
        Insurance companies today are incurring a loss in billions of dollars every year because of frauds happening in filing claims, paying premiums, filling applications etc. Detecting frauds manually or by other traditional means is an impossible task since magnanimous amounts of data is getting generated every day and fraudsters change their strategies very quickly. For handling such a humongous amount of data, performing real time analysis on it, and getting accurate outputs; it is imperative that a robust, flexible and scalable technology be used which can detect frauds on the fly. Big data provides just the platform needed to perform analysis of such high complexity.
-   url: https://github.com/bigdata-i523/hid205/paper1/report.pdf
+   url: https://github.com/bigdata-i523/hid205/blob/master/paper1/report.tex
    type: latex
    status: 100%
    chapter: Security
