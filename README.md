@@ -23,7 +23,7 @@ paper1:
        the fraudsters in claiming insurance policies
    url: https://github.com/bigdata-i523/hid205/paper1/report.pdf
    type: latex
-   status: in progress
+   status: 100%
    chapter: Security
 ```
    
