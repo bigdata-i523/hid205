@@ -1,0 +1,46 @@
+---
+owner:
+    hid: 205
+    name: Chaudhary, Mrunal L
+    url: https://github.com/bigdata-i523/hid205
+paper1:
+    abstract: 'Insurance companies today are incurring a loss in billions of dollars
+        every year because of frauds happening in filing claims, paying premiums,
+        filling applications etc. Detecting frauds manually or by other traditional
+        means is an impossible task since magnanimous amounts of data is getting generated
+        every day and fraudsters change their strategies very quickly. For handling
+        such a humongous amount of data, performing real time analysis on it, and
+        getting accurate outputs; it is imperative that a robust, flexible and scalable
+        technology be used which can detect frauds on the fly. Big data provides just
+        the platform needed to perform analysis of such high complexity.
+
+        '
+    author:
+        - Chaudhary Mrunal L
+    chapter: Security
+    hid:
+        - 205
+    status: 100%
+    title: Applications of Big Data in Fraud Detection in Insurance
+    type: latex
+    url: https://github.com/bigdata-i523/hid205/blob/master/paper1/report.tex
+paper2:
+    abstract: This paper showcases this and that and the other in regards to abc
+    author:
+        - Chaudhary Mrunal L
+    hid:
+        - 205
+    status: in progress
+    title: This is my paper about the other abc
+    type: word
+    url: https://github.com/bigdata-i523/hid205/paper2/report.pdf
+project:
+    abstract: This paper showcases tis and that and the other
+    author:
+        - Gregor von Laszewski
+    pid:
+        - 205
+    status: in progress
+    title: Benchmarking a BigData Docker deployment
+    type: latex
+    url: https://github.com/bigdata-i523/hidid205/project/report.pdf
