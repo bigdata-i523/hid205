@@ -85,4 +85,4 @@ publish:
 
 bib-extract:
 	echo "EXTRACTING ALL USED CITATIONS INTO A BIB FILE"
-bibtool -x ${FILE}.aux -o ${FILE}.bib
+	bibtool -x ${FILE}.aux -o ${FILE}.bib
