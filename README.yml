@@ -43,7 +43,7 @@ project:
     abstract: This paper showcases tis and that and the other
     author:
         - Gregor von Laszewski
-    pid:
+    hid:
         - 205
     status: in progress
     title: Benchmarking a BigData Docker deployment
