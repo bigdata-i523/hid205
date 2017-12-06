@@ -59,7 +59,7 @@ project:
        doing a thorough exploration of the data, data pre-processing
        and then running different Machine Learning Classifiers to
        classify the customers in different categories.
-                  author:
+    author:
         - Himani Bhatt
         - Mrunal Chaudhary
     hid:
