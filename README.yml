@@ -60,6 +60,7 @@ paper2:
     type: word
     url: https://github.com/bigdata-i523/hid205/blob/master/paper2/
 project:
+    duplicate: True
     abstract: >
        Humongous amounts of data gets generated every day in the
        domain of e-commerce industry.  With the increasing competition
@@ -70,7 +71,7 @@ project:
        them in making predictions about the customer purchasing
        patterns and thereby increase their revenue.  In this project
        we have aimed to do analysis on the data of an e-commerce
-       non-store online retail giant based in UK. The dataset,
+       non-store online retail gianduplicate: Truet based in UK. The dataset,
        available in the UC Irvine repository by the name of `Online
        Retail', consists of the the goods purchased by different
        customers at a given time. Through this data available to us,
