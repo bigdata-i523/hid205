@@ -21,12 +21,12 @@
 
 # Writing
 
-* 09/13/17 - Researched and gave topic for paper 1
-* 09/15/17 - 09/16/17 Installed and played around on Latex
-* 09/17/17 - installed JabRef and got familiar with it
-* 09/22/17 - Updated the files as needed for paper 1
-* 09/18/17 - started working on the paper 1 
-* 09/20/17 - Submitted paper 1
-* 10/04/17 - 10/05/17 Worked on the MQTT implementation and documentation of MQTT installaltion guide for Raspberry Pi as part of a group assignment
-* 11/03/17 - 11/06/17 Worked on paper 2 and submitted
-* 12/01/17 - 12/04/17 Worked on Project report and submitted
+* 09/13/17 Researched and gave topic for paper 1
+* 09/15/17 09/16/17 Installed and played around on Latex
+* 09/17/17 installed JabRef and got familiar with it
+* 09/22/17 Updated the files as needed for paper 1
+* 09/18/17 started working on the paper 1 
+* 09/20/17 Submitted paper 1
+* 10/04/17 10/05/17 Worked on the MQTT implementation and documentation of MQTT installaltion guide for Raspberry Pi as part of a group assignment
+* 11/03/17 11/06/17 Worked on paper 2 and submitted
+* 12/01/17 12/04/17 Worked on Project report and submitted
