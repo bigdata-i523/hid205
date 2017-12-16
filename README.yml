@@ -24,7 +24,6 @@ paper1:
         - 205
     status: Nov 05 2017 100%
     title: Applications of Big Data in Fraud Detection in Insurance
-    type: latex
     url: https://github.com/bigdata-i523/hid205/blob/master/paper1/
 paper2:
     exclude: True
@@ -57,7 +56,6 @@ paper2:
         - 205
     status: Nov 6 17 100%
     title: Empowering GIS suing Big Data
-    type: word
     url: https://github.com/bigdata-i523/hid205/blob/master/paper2/
 project:
     duplicate: True
@@ -88,6 +86,6 @@ project:
         - 205
     status: Dec 04 17 100%
     title: Big Data Analysis in E-Commerce
-    type: Project
+    type: project
     url: https://github.com/bigdata-i523/hid202/project/
     chapter: Business
